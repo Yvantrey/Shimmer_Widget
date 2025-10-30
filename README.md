@@ -5,8 +5,11 @@ A simple Flutter widget that adds a moving shimmer (loading) effect to any child
 The shimmer uses an animation controller and a linear gradient that moves from left to right, making your widget look like it’s glowing or loading.
 
 # Key Features
+
 Easy to use — just wrap any widget.
+
 Smooth left-to-right shimmer animation.
+
 Customizable duration and colors (if needed).
 
 # Explanation
