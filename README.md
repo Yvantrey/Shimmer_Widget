@@ -14,7 +14,9 @@ Customizable duration and colors (if needed).
 
 # Explanation
 AnimationController: Controls the shimmer motion (from 0 to 1).
+
 ShaderMask: Paints the moving light over your widget.
+
 LinearGradient: Creates the shiny effect.
 
 # How to Run
